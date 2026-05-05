@@ -1,9 +1,0 @@
-Base Class
-Viatris Project
-Class Naveen
-{
-public static void main(String[] args)
-{
-System.out.println("Naveen")
-}
-}
